@@ -2,6 +2,9 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/Anjasfedo/go-discord-ping-bot/bot"
+	"github.com/Anjasfedo/go-discord-ping-bot/config"
 )
 
 func main() {
